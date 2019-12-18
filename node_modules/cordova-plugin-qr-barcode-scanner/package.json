@@ -1,0 +1,86 @@
+{
+  "_from": "cordova-plugin-qr-barcode-scanner@8.0.3",
+  "_id": "cordova-plugin-qr-barcode-scanner@8.0.3",
+  "_inBundle": false,
+  "_integrity": "sha512-K1AxfEvKr0N3PsVI7+XwkbaxFzAODRkLpvr6lwOBJc26ePgJOfaLfhUnPT+kmccPVyUQ5VIRzzEoPMKuBvbqxQ==",
+  "_location": "/cordova-plugin-qr-barcode-scanner",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "version",
+    "registry": true,
+    "raw": "cordova-plugin-qr-barcode-scanner@8.0.3",
+    "name": "cordova-plugin-qr-barcode-scanner",
+    "escapedName": "cordova-plugin-qr-barcode-scanner",
+    "rawSpec": "8.0.3",
+    "saveSpec": null,
+    "fetchSpec": "8.0.3"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/cordova-plugin-qr-barcode-scanner/-/cordova-plugin-qr-barcode-scanner-8.0.3.tgz",
+  "_shasum": "7ccbde8ee36ed183f141324964210098ca3763dd",
+  "_spec": "cordova-plugin-qr-barcode-scanner@8.0.3",
+  "_where": "/media/biasawae/DATA21/PLAYSTORE/sisfokol_presensiqrcode",
+  "author": {
+    "name": "Adobe PhoneGap Team"
+  },
+  "bugs": {
+    "url": "https://github.com/AndreiTelteu/cordova-plugin-qr-barcode-scanner/issues"
+  },
+  "bundleDependencies": false,
+  "cordova": {
+    "id": "cordova-plugin-qr-barcode-scanner",
+    "platforms": [
+      "ios",
+      "android",
+      "windows",
+      "browser"
+    ]
+  },
+  "deprecated": false,
+  "description": "You can use the BarcodeScanner plugin to scan different types of barcodes (using the device's camera) and get the metadata encoded in them for processing within your application.",
+  "devDependencies": {
+    "jasmine-node": "1.14.5",
+    "pluginpub": "^0.0.9"
+  },
+  "engines": {
+    "cordovaDependencies": {
+      "7.0.0": {
+        "cordova-android": ">=6.3.0"
+      },
+      "7.1.0": {
+        "cordova": ">=7.1.0",
+        "cordova-android": ">=6.3.0"
+      },
+      "8.0.0": {
+        "cordova": ">=7.1.0",
+        "cordova-android": ">=6.3.0"
+      },
+      "<7.0.0": {
+        "cordova-android": "<6.3.0"
+      }
+    }
+  },
+  "homepage": "https://github.com/AndreiTelteu/cordova-plugin-qr-barcode-scanner#readme",
+  "keywords": [
+    "ecosystem:cordova",
+    "ecosystem:phonegap",
+    "cordova-ios",
+    "cordova-android",
+    "cordova-windows",
+    "cordova-browser",
+    "cordova:plugin"
+  ],
+  "license": "MIT",
+  "name": "cordova-plugin-qr-barcode-scanner",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AndreiTelteu/cordova-plugin-qr-barcode-scanner.git"
+  },
+  "scripts": {
+    "test": "jasmine-node --color spec"
+  },
+  "version": "8.0.3"
+}

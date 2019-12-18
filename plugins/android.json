@@ -1,0 +1,77 @@
+{
+  "prepare_queue": {
+    "installed": [],
+    "uninstalled": []
+  },
+  "config_munge": {
+    "files": {}
+  },
+  "installed_plugins": {
+    "cordova-plugin-camera": {
+      "ANDROID_SUPPORT_V4_VERSION": "27.+",
+      "PACKAGE_NAME": "sisfokol.presensi.qrcode"
+    },
+    "cordova-plugin-device-orientation": {
+      "PACKAGE_NAME": "sisfokol.presensi.qrcode"
+    },
+    "cordova-plugin-dialogs": {
+      "PACKAGE_NAME": "sisfokol.presensi.qrcode"
+    },
+    "cordova-plugin-file": {
+      "PACKAGE_NAME": "sisfokol.presensi.qrcode"
+    },
+    "cordova-plugin-file-transfer": {
+      "PACKAGE_NAME": "sisfokol.presensi.qrcode"
+    },
+    "cordova-plugin-geolocation": {
+      "PACKAGE_NAME": "sisfokol.presensi.qrcode"
+    },
+    "cordova-plugin-googlemaps": {
+      "PLAY_SERVICES_VERSION": "15.0.1",
+      "ANDROID_SUPPORT_V4_VERSION": "27.+",
+      "PACKAGE_NAME": "sisfokol.presensi.qrcode"
+    },
+    "cordova-plugin-gpslocation": {
+      "PACKAGE_NAME": "sisfokol.presensi.qrcode"
+    },
+    "cordova-plugin-inappbrowser": {
+      "PACKAGE_NAME": "sisfokol.presensi.qrcode"
+    },
+    "cordova-plugin-local-notification": {
+      "PACKAGE_NAME": "sisfokol.presensi.qrcode"
+    },
+    "cordova-plugin-media-capture": {
+      "PACKAGE_NAME": "sisfokol.presensi.qrcode"
+    },
+    "cordova-plugin-network-information": {
+      "PACKAGE_NAME": "sisfokol.presensi.qrcode"
+    },
+    "cordova-plugin-qr-barcode-scanner": {
+      "ANDROID_SUPPORT_V4_VERSION": "27.+",
+      "PACKAGE_NAME": "sisfokol.presensi.qrcode"
+    },
+    "cordova-plugin-splashscreen": {
+      "PACKAGE_NAME": "sisfokol.presensi.qrcode"
+    },
+    "cordova-plugin-tts": {
+      "PACKAGE_NAME": "sisfokol.presensi.qrcode"
+    },
+    "cordova-plugin-vibration": {
+      "PACKAGE_NAME": "sisfokol.presensi.qrcode"
+    },
+    "cordova-plugin-whitelist": {
+      "PACKAGE_NAME": "sisfokol.presensi.qrcode"
+    },
+    "cordova-unique-device-id": {
+      "PACKAGE_NAME": "sisfokol.presensi.qrcode"
+    }
+  },
+  "dependent_plugins": {
+    "cordova-plugin-badge": {
+      "PACKAGE_NAME": "sisfokol.presensi.qrcode"
+    },
+    "cordova-plugin-device": {
+      "PACKAGE_NAME": "sisfokol.presensi.qrcode"
+    }
+  }
+}

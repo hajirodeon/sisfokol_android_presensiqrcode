@@ -1,0 +1,11 @@
+{
+  "background_color": "#FFF",
+  "display": "standalone",
+  "name": "QR CODE",
+  "short_name": "QR CODE",
+  "version": "sisfokol.presensi.qrcode",
+  "description": "SISFOKOL untuk Presensi QRCODE",
+  "author": "Agus Muhajir",
+  "icons": [],
+  "start_url": "index.html"
+}

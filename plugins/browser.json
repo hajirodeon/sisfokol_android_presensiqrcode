@@ -1,0 +1,73 @@
+{
+  "prepare_queue": {
+    "installed": [],
+    "uninstalled": []
+  },
+  "config_munge": {
+    "files": {}
+  },
+  "installed_plugins": {
+    "cordova-plugin-camera": {
+      "PACKAGE_NAME": "coba.playstore.biasawae"
+    },
+    "cordova-plugin-file": {
+      "PACKAGE_NAME": "coba.playstore.biasawae"
+    },
+    "cordova-plugin-file-transfer": {
+      "PACKAGE_NAME": "coba.playstore.biasawae"
+    },
+    "cordova-plugin-whitelist": {
+      "PACKAGE_NAME": "coba.playstore.biasawae"
+    },
+    "cordova-plugin-media-capture": {
+      "PACKAGE_NAME": "smk.pgri.cikoneng"
+    },
+    "cordova-plugin-inappbrowser": {
+      "PACKAGE_NAME": "smk.pgri.cikoneng"
+    },
+    "cordova-plugin-gpslocation": {
+      "PACKAGE_NAME": "smk.pgri.cikoneng"
+    },
+    "cordova-plugin-device-orientation": {
+      "PACKAGE_NAME": "smk.pgri.cikoneng"
+    },
+    "cordova-plugin-dialogs": {
+      "PACKAGE_NAME": "smk.pgri.cikoneng"
+    },
+    "cordova-plugin-geolocation": {
+      "PACKAGE_NAME": "smk.pgri.cikoneng"
+    },
+    "cordova-plugin-local-notification": {
+      "PACKAGE_NAME": "smk.pgri.cikoneng"
+    },
+    "cordova-plugin-tts": {
+      "PACKAGE_NAME": "smk.pgri.cikoneng"
+    },
+    "cordova-plugin-googlemaps": {
+      "PACKAGE_NAME": "smk.pgri.cikoneng"
+    },
+    "cordova-plugin-splashscreen": {
+      "PACKAGE_NAME": "smk.pgri.cikoneng"
+    },
+    "cordova-plugin-qr-barcode-scanner": {
+      "PACKAGE_NAME": "smk.pgri.cikoneng"
+    },
+    "cordova-plugin-network-information": {
+      "PACKAGE_NAME": "smk.pgri.cikoneng"
+    },
+    "cordova-plugin-vibration": {
+      "PACKAGE_NAME": "smk.pgri.cikoneng"
+    },
+    "cordova-unique-device-id": {
+      "PACKAGE_NAME": "smk.pgri.cikoneng"
+    }
+  },
+  "dependent_plugins": {
+    "cordova-plugin-device": {
+      "PACKAGE_NAME": "smk.pgri.cikoneng"
+    },
+    "cordova-plugin-badge": {
+      "PACKAGE_NAME": "smk.pgri.cikoneng"
+    }
+  }
+}
