@@ -15,6 +15,16 @@ http://192.168.1.100/sisfokol_presensiqrcode
 
 
 
+
+<video width="320" height="240" controls>
+  <source src="video_android_sisfokol_presensiqrcode.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
+
+
+
+
 source code web :
 
 https://github.com/hajirodeon/sisfokol_presensiqrcode
