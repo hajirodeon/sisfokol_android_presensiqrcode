@@ -92,6 +92,17 @@
     <feature name="UniqueDeviceID">
         <param name="android-package" value="hu.dpal.phonegap.plugins.UniqueDeviceID" />
     </feature>
+    <feature name="File">
+        <param name="android-package" value="org.apache.cordova.file.FileUtils" />
+        <param name="onload" value="true" />
+    </feature>
+    <allow-navigation href="cdvfile:*" />
+    <feature name="Capture">
+        <param name="android-package" value="org.apache.cordova.mediacapture.Capture" />
+    </feature>
+    <feature name="FileTransfer">
+        <param name="android-package" value="org.apache.cordova.filetransfer.FileTransfer" />
+    </feature>
     <name>QR CODE</name>
     <description>
         SISFOKOL untuk Presensi QRCODE

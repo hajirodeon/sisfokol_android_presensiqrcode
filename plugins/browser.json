@@ -51,6 +51,15 @@
     },
     "cordova-unique-device-id": {
       "PACKAGE_NAME": "smk.pgri.cikoneng"
+    },
+    "cordova-plugin-file": {
+      "PACKAGE_NAME": "sisfokol.presensi.qrcode"
+    },
+    "cordova-plugin-media-capture": {
+      "PACKAGE_NAME": "sisfokol.presensi.qrcode"
+    },
+    "cordova-plugin-file-transfer": {
+      "PACKAGE_NAME": "sisfokol.presensi.qrcode"
     }
   },
   "dependent_plugins": {
