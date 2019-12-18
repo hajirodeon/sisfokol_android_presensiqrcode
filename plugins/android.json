@@ -17,12 +17,6 @@
     "cordova-plugin-dialogs": {
       "PACKAGE_NAME": "sisfokol.presensi.qrcode"
     },
-    "cordova-plugin-file": {
-      "PACKAGE_NAME": "sisfokol.presensi.qrcode"
-    },
-    "cordova-plugin-file-transfer": {
-      "PACKAGE_NAME": "sisfokol.presensi.qrcode"
-    },
     "cordova-plugin-geolocation": {
       "PACKAGE_NAME": "sisfokol.presensi.qrcode"
     },
@@ -38,9 +32,6 @@
       "PACKAGE_NAME": "sisfokol.presensi.qrcode"
     },
     "cordova-plugin-local-notification": {
-      "PACKAGE_NAME": "sisfokol.presensi.qrcode"
-    },
-    "cordova-plugin-media-capture": {
       "PACKAGE_NAME": "sisfokol.presensi.qrcode"
     },
     "cordova-plugin-network-information": {

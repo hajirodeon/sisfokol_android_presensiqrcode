@@ -10,17 +10,8 @@
     "cordova-plugin-camera": {
       "PACKAGE_NAME": "coba.playstore.biasawae"
     },
-    "cordova-plugin-file": {
-      "PACKAGE_NAME": "coba.playstore.biasawae"
-    },
-    "cordova-plugin-file-transfer": {
-      "PACKAGE_NAME": "coba.playstore.biasawae"
-    },
     "cordova-plugin-whitelist": {
       "PACKAGE_NAME": "coba.playstore.biasawae"
-    },
-    "cordova-plugin-media-capture": {
-      "PACKAGE_NAME": "smk.pgri.cikoneng"
     },
     "cordova-plugin-inappbrowser": {
       "PACKAGE_NAME": "smk.pgri.cikoneng"
